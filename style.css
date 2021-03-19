@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+	margin: 0;
+	padding: 0;
+	background: url(Image/homeBack.jpg);
+	height: 100vh;
+	background-size: cover;
+	display: block;
+}
+
+.navbar {
+	background: blue;
+	height: 50px;
+	overflow: hidden;
+}
+
+
+.logo {
+	text-align: center;
+	display: block;
+	align-items: center;
+	justify-content: center;
+	height: 90vh;
+	color: white;
+	overflow: hidden;
+	
+}
+
+
+
+a {
+	color: white;
+	float: left;
+	padding: 15px;
+	margin: 2px;
+	overflow: hidden;
+}
+
+.navbar div {
+	float: right;
+	font-size: 20px;
+	color: white;
+	padding: 15px;
+	margin: 2px;
+	overflow: hidden;
+
+}
+
+.aboute {
+	margin: 150px auto 0 auto;
+	width: 500px;
+	background-color: 
+}
+
+.aboute h1 {
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	color: #f2f2f2;
+}
+
+.aboute p {
+	text-align: justify;
+	font-family: 'Lato', sans-serif;
+	color: green;
+}
+
+.contact h1 {
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	
+	
+}
+
+.contact .adress {
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	align-items: center;
+	text-align: center;
+	justify-content: center;
+	margin-top:   15%;
+}
+
+p {
+	background-color: white;
+	text-align: center;
+	align-items: center;
+}
